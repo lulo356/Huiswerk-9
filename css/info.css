@@ -25,7 +25,7 @@ body{
     color: yellow;
 }
 
-.WhoIsThisStyle{
+.WhatKindStyle{
     text-align: center;
     color:white;
     width: 500px;
@@ -35,11 +35,11 @@ body{
     border-radius: 10px;
 }
 
-.WhoIsThisStyle:hover{
+.WhatKindStyle:hover{
     background-color: black;
 }
 
-.WhatDidHeDoStyle{
+.CostStyle{
     text-align: center;
     color:white;
     width: 500px;
@@ -49,12 +49,12 @@ body{
     border-radius: 10px
 }
 
-.WhatDidHeDoStyle:hover{
+.CostStyle:hover{
     background-color: black;
 }
 
 
-.TestStyle{
+.WhereStyle{
     text-align: center;
     color:white;
     width: 500px;
@@ -65,7 +65,7 @@ body{
     border-radius: 10px
 }
 
-.TestStyle:hover{
+.WhereStyle:hover{
     background-color: black;
 }
 
